@@ -85,5 +85,15 @@ promise2
 ```
 
 整个题目的输出为：
-
-![image-20210707193904877](assets/image-20210707193904877.png)
+```
+console.log('script end')
+script start
+async1 start
+async2
+promise1
+script end
+async1 end
+promise2
+undefined
+setTimeout
+```
