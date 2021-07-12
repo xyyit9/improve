@@ -79,13 +79,13 @@ function async2(){
 
 因此输出为：
 
-```
+```javascript
 async1 end
 promise2
 ```
 
 整个题目的输出为：
-```
+```javascript
 console.log('script end')
 script start
 async1 start
